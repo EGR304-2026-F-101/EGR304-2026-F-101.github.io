@@ -31,8 +31,10 @@ Based on the information provided on in the "Team Member Communication Modes," t
  
 ## Communication Procedures
 
-1. How will your team communicate? Primarily via group chat text messaging or email.
-2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group? Gary Hoffland. 
+1. How will your team communicate?
+   Primarily via group chat text messaging or email.
+2. How will you handle instructor correspondence? Who is responsible?
+   How will that be communicated with/back to the group? Gary Hoffland. 
 
 ## Meeting Schedule
 
@@ -68,9 +70,13 @@ _**Table Legend for Appendix Table 2**_
 ## Meeting Coordination
 
 1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
-1. Are there any other procedures that your team feels are necessary?
+   We will have the meeting manager to make sure to follow up with everyone and remind them on the group text.
+2. How will your team go about changing or adding meeting times?
+   If one person has something that comes up and needs to change the meeting times, the meeting manager will then ask the team in group text if everyone has a different time they will be able to meet.
+3. What's the preferred format for meetings (face-to-face or virtually)?
+   The preferred format is virtual.
+4. Are there any other procedures that your team feels are necessary?
+   We will there is nothing else as we are pretty aligned as a team.
 
 ## Roles & Responsibilities
 
@@ -85,9 +91,12 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Conflict Recognition & Resolution
 
+If we feel like two team members have opposing ideas and its leading to a conflict, we will have all team members sit together and talk it out and try to resolve it.
 
 
 
 ## Signatures
+
+Daksh Raghav Preetha
 
 Caleb Ross
