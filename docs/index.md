@@ -5,13 +5,13 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
-<font size="5">Team ###<br>
-**Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+<font size="8">Embedded System Design Project<br>
+<font size="5">Team 101<br>
+Submission: month, DD, 2026<br>
+Fall 2026<br>
 <font size="4">Arizona State University<br>
-**EGR 304**<br>
-Professor Name<br>
+EGR 304<br>
+Zane Reynolds and Dr. Kevin Nichols<br>
   
 
 </center>
@@ -26,7 +26,7 @@ Professor Name<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
-| Name #2                | link |
-| Name #3                | link |
-| Name #4                | link |
+| Gary Hoffland                | https://garyhoffland.github.io/Garyhoffland_EGR304_F26.github.io/ |
+| Caleb Ross                | https://caross10.github.io/caross10_EGR304_F26.github.io/ |
+| Daksh Raghav Preetha               | https://daksh2109.github.io/Daksh2109_EGR304_F26.github.io/|
+| Connor Erwin                | https://connorthethird.github.io/Connorthethird_EGR304_Individual_F26.github.io/ |
