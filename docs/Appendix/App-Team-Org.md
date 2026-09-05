@@ -46,16 +46,16 @@ _**Appendix Table 2**: Weekly Schedule_
 | 9:00 AM | D | - | - | - | - | - | - |
 | 10:00 AM | D | - | - | - | - | - | - |
 | 11:00 AM | D | - | - | - | - | - | - |
-| 12:00 PM | D | CR,D | CR,D | CR,D | CR,D | - | - |
-| 1:00 PM | D | - | - | - | - | - | - |
+| 12:00 PM | D | CR,D,G,C3 | CR,D,G,C3 | CR,D,G,C3 | CR,D,G,C3 | - | - |
+| 1:00 PM | D | C3 | C3 | C3 | C3 | - | - |
 | 2:00 PM | D | - | - | - | - | - | - |
 | 3:00 PM | D | - | - | - | - | - | - |
-| 4:00 PM | D | - | - | - | - | - | - |
-| 5:00 PM | D | - | - | - | - | - | - |
-| 6:00 PM | D | CR,D | - | CR,D | - | - | - |
-| 7:00 PM | D | CR,D | - | CR,D | - | - | - |
-| 8:00 PM | D | CR,D | - | CR,D | - | - | - |
-| 9:00 PM | D | CR,D | - | CR,D | - | - | - |
+| 4:00 PM | D | - | - | G | - | - | - |
+| 5:00 PM | D | - | - | G | - | - | - |
+| 6:00 PM | D | CR,D | G | CR,D | G | - | - |
+| 7:00 PM | D | CR,D | G | CR,D | G | - | - |
+| 8:00 PM | D | CR,D | G | CR,D | G | - | - |
+| 9:00 PM | D | CR,D | G | CR,D | G | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
@@ -100,3 +100,7 @@ If we feel like two team members have opposing ideas and its leading to a confli
 Daksh Raghav Preetha
 
 Caleb Ross
+
+Gary Hoffland
+
+Connor Erwin
