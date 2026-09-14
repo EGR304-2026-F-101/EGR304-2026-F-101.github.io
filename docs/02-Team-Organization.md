@@ -13,4 +13,4 @@ tags:
 ## Product Mission Statement
 
 
- > "Our mission is to design an automatic dog food dispenser that provides dogs with consistent portions of food at scheduled times, helping owners maintain a reliable feeding routine even when they are unavailable."
+ > "Our mission is to design an automatic animal food dispenser that provides dogs with consistent portions of food at scheduled times, helping owners maintain a reliable feeding routine even when they are unavailable."
