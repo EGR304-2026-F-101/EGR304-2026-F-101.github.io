@@ -18,11 +18,11 @@ title: User Needs and Benchmarking
 
 **(include a picture)**
 
-* Price: $65
+* Price: $129.99
 
-* Vendor: Amazon
+* Vendor: Colorwing via Amazon
 
-* Description: The kit includes over 50 high quality components and 10 Challenges that inspire kids to invent their own creations. The pieces are a combination of the everyday and the mysterious, perfect for generating creativity, boosting IQ and instilling STEM knowledge.
+* Description: The COLORWING Smart Pill Dispenser is an automatic medication dispenser designed to release medication at scheduled times. It uses multiple medication compartments, programmable reminders, locking features, and a dispensing tray.
 
 ##### Positive Comments
 
