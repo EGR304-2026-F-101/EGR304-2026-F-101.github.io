@@ -70,21 +70,20 @@ title: User Needs and Benchmarking
 
 ### Search #2
 
-(you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
+**Keywords:** Automatic Paper Towel Dispenser 
 
-**Keywords:** <list an alternative search you did, if applicable>
-
-**Search Results Link:** <add your link here>
+**Search Results Link:** [https://www.amazon.com/Pacific-Automated-Dispenser-Georgia-Pacific-59590/dp/B01M1NX5IB/ref=sr_1_9?crid=3M41SRMDF5THD&dib=eyJ2IjoiMSJ9.tnWDGoL4g6XXGN7DPfZnUrKFK82StTxz1m6F0Fe3AkWy-14IwQRhXW5YK41beFRzjj17WG_LOrQ3uoZ33qZBSwjVOPqJhPgWsNCzG42Cw0KwzAvgNFqRAuBNT3McEOTndvEvYFKyEjnomJJLMWmXAAziKNvN8rYMAWHawuVuH6XzNwuL2A57H7sVNyyOJrTpBJckyTwVYxAsCsO9wuk_K2yslfYsCNspYcSfI1lB7CQ.V8ICo8Ke5j4tqGeibs-Y66hQu7Ve2xqCmIouardHthA&dib_tag=se&keywords=paper%2Btowel%2Bdispenser&qid=1789414204&sprefix=paper%2Btowel%2Bdis%2Caps%2C196&sr=8-9&th=1]
 
 ### Selected Products
 
-#### 2. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
+#### 2. [Pacific Blue Ultra 8" High-Capacity Automated Touchless Paper Towel Dispenser](https://www.amazon.com/Pacific-Automated-Dispenser-Georgia-Pacific-59590/dp/B01M1NX5IB/ref=sr_1_9?crid=3M41SRMDF5THD&dib=eyJ2IjoiMSJ9.tnWDGoL4g6XXGN7DPfZnUrKFK82StTxz1m6F0Fe3AkWy-14IwQRhXW5YK41beFRzjj17WG_LOrQ3uoZ33qZBSwjVOPqJhPgWsNCzG42Cw0KwzAvgNFqRAuBNT3McEOTndvEvYFKyEjnomJJLMWmXAAziKNvN8rYMAWHawuVuH6XzNwuL2A57H7sVNyyOJrTpBJckyTwVYxAsCsO9wuk_K2yslfYsCNspYcSfI1lB7CQ.V8ICo8Ke5j4tqGeibs-Y66hQu7Ve2xqCmIouardHthA&dib_tag=se&keywords=paper%2Btowel%2Bdispenser&qid=1789414204&sprefix=paper%2Btowel%2Bdis%2Caps%2C196&sr=8-9&th=1) 
 
-![](image1.png)
+![](<img width="1500" height="1500" alt="Pacific Blue Ultra 8in High-Capacity Automated Touchless Paper Towel Dispenser" src="https://github.com/user-attachments/assets/64f5da06-eb20-4c3d-9dac-003e4a5db8ca" />
+)
 
 **(include a picture)**
 
-* Price: 
+* Price: $66.00
 
 * Vendor:
 
