@@ -13,4 +13,4 @@ tags:
 ## Product Mission Statement
 
 
- > "Our mission is to design and develop a reliable, user-friendly embedded system that uses engineering and technology to address a real-world need and provide a practical solution for its users."
+ > "Our mission is to design an automatic dog food dispenser that provides dogs with consistent portions of food at scheduled times, helping owners maintain a reliable feeding routine even when they are unavailable."
