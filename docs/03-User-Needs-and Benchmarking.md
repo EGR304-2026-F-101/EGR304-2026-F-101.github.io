@@ -149,7 +149,7 @@ title: User Needs and Benchmarking
 
 #### 3. [PetSafe FlexFeed Automatic Pet Feeder](https://www.petco.com/product/petsafe-flexfeed-automatic-pet-feeder-8-cup2l-timed-cat-and-small-dog-feeder-with-portion-control-black-4803847?cm_mmc=PSH|GGL|OMNI|CC|NA|NA|mSmqFuNsN3cTgzmFr9hQFb|ENT_PSH_GGL_OMNI_CC_NA_PETCO_NA_NA_09032025_COV_PUR-OMNI_PMAX-PLA-LIA_NA_CAT|0|0|0&gclsrc=aw.ds&gad_source=1&gad_campaignid=22487747703&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-zGdC0q0EyqOarqcSkTi1SCU7WIsP5ZSg56i7iDGSQw2cAXEitmIRBoCwkwQAvD_BwE)
 
-![]()
+![](https://assets.petco.com/petco/image/upload/f_auto,q_auto/4803847-center-1)
 
 * Price: $64.99
 
