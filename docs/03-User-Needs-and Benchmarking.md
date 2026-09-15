@@ -198,7 +198,139 @@ title: User Needs and Benchmarking
 | "The auto feeder didn’t dispense the food returning" | 1.  The dispenser should be able to work with different food sizes (latent)                       |
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The dispenser should be user friendly (latent) |
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  Food should be dispensed when activated (explicit)           |
+### Search #4
 
+**Keywords:** "Gumball Candy Dispenser"
+
+**Search Results Link:** https://www.homedepot.com/s/gumball%20dispenser
+
+### Selected Products
+
+#### 4. [GREAT NORTHERN Junior Vintage Gumball Bank Machine](https://www.homedepot.com/p/GREAT-NORTHERN-Junior-Vintage-Gumball-Bank-Machine-HWD630290/206970036)
+
+![](<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b5c50aa5-12a0-40af-ac31-0e71d0887220" />
+)
+
+
+* Price: $39.95
+
+* Vendor: GREAT NORTHERN via The Home Depot
+
+* Description: The GREAT NORTHERN Junior Vintage Gumball Bank Machine is a mechanical candy dispenser designed to dispense gumballs up to approximately 0.6 inches in diameter, candy, or nuts. The machine has an 11 inch glass globe and can be configured to operate either with coins or without coins.
+
+
+##### Positive Comments
+
+| Voice of the Customer 1 | Restated Customer Need |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Perfect size for our small home." | 1. The dispenser fits comfortably within the user's available space. (explicit) |
+| | 2. The dispenser has a compact physical footprint. (latent) |
+| | 3. The dispenser provides useful storage capacity without being unnecessarily large. (latent) |
+
+
+| Voice of the Customer 2 | Restated Customer Need |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Machine is nice quality." | 1. The dispenser feels high quality to the user. (explicit) |
+| | 2. The dispenser is constructed to withstand regular use. (latent) |
+| | 3. The dispenser gives the user confidence in its construction. (latent) |
+
+
+| Voice of the Customer 3 | Restated Customer Need |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "It works great." | 1. The dispenser performs its intended function reliably. (explicit) |
+| | 2. The dispenser provides a consistent dispensing experience. (latent) |
+| | 3. The dispenser is easy for users to operate successfully. (latent) |
+
+
+##### Negative Comments
+
+| Voice of the Customer 1 | Restated Customer Need |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| "Money jammed up." | 1. The dispenser resists jamming during normal operation. (explicit) |
+| | 2. The dispenser continues to operate reliably after repeated use. (latent) |
+| | 3. The dispenser's internal moving components withstand repeated operation. (latent) |
+
+
+| Voice of the Customer 2 | Restated Customer Need |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| "Only works with small gum-balls." | 1. The dispenser accommodates a useful range of item sizes. (explicit) |
+| | 2. The dispenser clearly communicates compatible item sizes to the user. (latent) |
+| | 3. Compatible items move through the dispenser consistently. (latent) |
+
+
+| Voice of the Customer 3 | Restated Customer Need |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| Changing the machine to free-spin operation was described as "a little daunting." | 1. The dispenser is easy to configure for different operating modes. (explicit) |
+| | 2. The dispenser requires minimal effort to change operating configurations. (latent) |
+| | 3. The dispenser provides clear guidance for configuration changes. (latent) |
+
+
+
+### Search #5
+
+**Keywords:** "Double Cereal Dry Food Dispenser"
+
+**Search Results Link:** https://www.homedepot.com/s/cereal%20dispenser
+
+### Selected Products
+
+#### 5. Mind Reader Double Cereal Dispenser
+
+![](<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/bece22b7-02f4-4086-82bc-bf7aa7d54626" />
+)
+
+
+* Price: $39.99
+
+* Vendor: Mind Reader via The Home Depot
+
+* Description: The Mind Reader Double Cereal Dispenser is a countertop dry food dispenser with two 3.5 liter storage containers. It is designed for cereal, granola, candy, rice, coffee beans, and other dry foods. A rotating twist valve controls dispensing and allows users to dispense portions while storing two different materials at the same time.
+
+
+##### Positive Comments
+
+| Voice of the Customer 1 | Restated Customer Need |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Perfect portion every time." | 1. The dispenser provides a consistent amount of material during each use. (explicit) |
+| | 2. The dispenser helps users control portion size. (latent) |
+| | 3. The dispenser minimizes unnecessary over-dispensing of its contents. (latent) |
+
+
+| Voice of the Customer 2 | Restated Customer Need |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Easy to fill, easy to clean." | 1. The dispenser is easy to fill. (explicit) |
+| | 2. The dispenser is easy to clean. (explicit) |
+| | 3. The dispenser requires minimal effort for routine maintenance. (latent) |
+
+
+| Voice of the Customer 3 | Restated Customer Need |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Lets you have 2 different cereals." | 1. The dispenser accommodates multiple types of material. (explicit) |
+| | 2. The dispenser keeps different stored contents separated. (latent) |
+| | 3. The dispenser allows users to select different contents without emptying and refilling the product. (latent) |
+
+
+##### Negative Comments
+
+| Voice of the Customer 1 | Restated Customer Need |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| "One of the containers was cracked into pieces." | 1. The dispenser withstands normal shipping and handling without damage. (explicit) |
+| | 2. The dispenser's storage containers resist cracking or breaking. (explicit) |
+| | 3. The dispenser arrives in a condition that allows immediate use. (latent) |
+
+
+| Voice of the Customer 2 | Restated Customer Need |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| "The plastic feels pretty flimsy and lightweight." | 1. The dispenser feels sturdy during normal use. (explicit) |
+| | 2. The dispenser's structural components withstand normal operating forces. (latent) |
+| | 3. The dispenser maintains its structural integrity through repeated use. (latent) |
+
+
+| Voice of the Customer 3 | Restated Customer Need |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| "My cereal goes stale way faster than it should." | 1. The dispenser protects stored material from environmental exposure. (explicit) |
+| | 2. The dispenser maintains the freshness of stored contents over time. (latent) |
+| | 3. The dispenser keeps stored contents in usable condition between dispensing cycles. (latent) |
 ### Search #4
 
 (you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
