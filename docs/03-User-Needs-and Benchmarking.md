@@ -330,142 +330,27 @@ title: User Needs and Benchmarking
 | "My cereal goes stale way faster than it should." | 1. The dispenser protects stored material from environmental exposure. (explicit) |
 | | 2. The dispenser maintains the freshness of stored contents over time. (latent) |
 | | 3. The dispenser keeps stored contents in usable condition between dispensing cycles. (latent) |
-### Search #4
-
-(you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
-
-**Keywords:** <list an alternative search you did, if applicable>
-
-**Search Results Link:** <add your link here>
-
-### Selected Products
-
-#### 4. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
-
-![](image1.png)
-
-**(include a picture)**
-
-* Price: 
-
-* Vendor:
-
-* Description: 
-
-##### Positive Comments
-
-| Voice of the Customer 1                                                                                                                                                                 | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
-|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
-
-| Voice of the Customer 2                                                                                                                                                                 | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
-|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
-
-
-| Voice of the Customer 3                                                                                                                                                                 | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
-|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
-
-
-##### Negative Comments
-
-| Voice of the Customer 1                                                                                                                                                                                                                                                                                                                                                                               | Restated Customer Need                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| "I am a STEM teacher and bought a large quantity of these kits and I am disgusted by how easily the motor breaks. 12 years in STEM schools and this product is at the bottom of my list. The ladybug platform, as we call it, needs some reimagining and the materials simply can't handle the wear and tear of a classroom. Sad that I spend my own money on this with so little we got out of it." | 1.  The kit is robust. (explicit)                       |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
-
-| Voice of the Customer 2                                                                                                                                                                                                                                                                                                                                                                               | Restated Customer Need                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| "I am a STEM teacher and bought a large quantity of these kits and I am disgusted by how easily the motor breaks. 12 years in STEM schools and this product is at the bottom of my list. The ladybug platform, as we call it, needs some reimagining and the materials simply can't handle the wear and tear of a classroom. Sad that I spend my own money on this with so little we got out of it." | 1.  The kit is robust. (explicit)                       |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
-
-| Voice of the Customer 3                                                                                                                                                                                                                                                                                                                                                                               | Restated Customer Need                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| "I am a STEM teacher and bought a large quantity of these kits and I am disgusted by how easily the motor breaks. 12 years in STEM schools and this product is at the bottom of my list. The ladybug platform, as we call it, needs some reimagining and the materials simply can't handle the wear and tear of a classroom. Sad that I spend my own money on this with so little we got out of it." | 1.  The kit is robust. (explicit)                       |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
-
-### Search #5
-
-(you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
-
-**Keywords:** <list an alternative search you did, if applicable>
-
-**Search Results Link:** <add your link here>
-
-### Selected Products
-
-#### 5. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
-
-![](image1.png)
-
-**(include a picture)**
-
-* Price: 
-
-* Vendor:
-
-* Description: 
-
-##### Positive Comments
-
-| Voice of the Customer 1                                                                                                                                                                 | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
-|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
-
-| Voice of the Customer 2                                                                                                                                                                 | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
-|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
-
-
-| Voice of the Customer 3                                                                                                                                                                 | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
-|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
-
-
-##### Negative Comments
-
-| Voice of the Customer 1                                                                                                                                                                                                                                                                                                                                                                               | Restated Customer Need                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| "I am a STEM teacher and bought a large quantity of these kits and I am disgusted by how easily the motor breaks. 12 years in STEM schools and this product is at the bottom of my list. The ladybug platform, as we call it, needs some reimagining and the materials simply can't handle the wear and tear of a classroom. Sad that I spend my own money on this with so little we got out of it." | 1.  The kit is robust. (explicit)                       |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
-
-| Voice of the Customer 2                                                                                                                                                                                                                                                                                                                                                                               | Restated Customer Need                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| "I am a STEM teacher and bought a large quantity of these kits and I am disgusted by how easily the motor breaks. 12 years in STEM schools and this product is at the bottom of my list. The ladybug platform, as we call it, needs some reimagining and the materials simply can't handle the wear and tear of a classroom. Sad that I spend my own money on this with so little we got out of it." | 1.  The kit is robust. (explicit)                       |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
-
-| Voice of the Customer 3                                                                                                                                                                                                                                                                                                                                                                               | Restated Customer Need                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| "I am a STEM teacher and bought a large quantity of these kits and I am disgusted by how easily the motor breaks. 12 years in STEM schools and this product is at the bottom of my list. The ladybug platform, as we call it, needs some reimagining and the materials simply can't handle the wear and tear of a classroom. Sad that I spend my own money on this with so little we got out of it." | 1.  The kit is robust. (explicit)                       |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
 
 
 ## Organized Need Statements
 
 ### First Placement
 
+<img width="1915" height="673" alt="Screenshot 2026-09-14 220213" src="https://github.com/user-attachments/assets/9f10cfab-a853-470b-9479-3a3ed5a6148d" />
+
+<img width="1910" height="702" alt="Screenshot 2026-09-14 220227" src="https://github.com/user-attachments/assets/820c3fed-eac0-4518-a07f-afb1a651b085" />
+
 ### Grouped with categories
 
+<img width="1917" height="693" alt="Screenshot 2026-09-14 220429" src="https://github.com/user-attachments/assets/927a3513-5a53-41ce-bd13-bbcf62efa5cc" />
+
+<img width="1897" height="671" alt="Screenshot 2026-09-14 220445" src="https://github.com/user-attachments/assets/f8b28d46-33f2-4248-b94c-52a5b7556811" />
+
 ### Ranked
+
+<img width="1183" height="683" alt="Screenshot 2026-09-14 222853" src="https://github.com/user-attachments/assets/e1085adf-5934-46c0-943a-10fcacfda4d7" />
+
+<img width="1027" height="692" alt="Screenshot 2026-09-14 222910" src="https://github.com/user-attachments/assets/77551358-ecfc-4fee-ab43-d3ac5ddf872d" />
 
 ## Compiled list of user Needs
 
