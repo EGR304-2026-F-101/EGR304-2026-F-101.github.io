@@ -208,8 +208,7 @@ title: User Needs and Benchmarking
 
 #### 4. [GREAT NORTHERN Junior Vintage Gumball Bank Machine](https://www.homedepot.com/p/GREAT-NORTHERN-Junior-Vintage-Gumball-Bank-Machine-HWD630290/206970036)
 
-![](<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b5c50aa5-12a0-40af-ac31-0e71d0887220" />
-)
+![](https://images.thdstatic.com/productImages/cc31eea7-8226-41bc-8b38-219e083ef66e/svn/red-great-northern-sculptures-hwd630290-64_600.jpg)
 
 
 * Price: $39.95
@@ -276,7 +275,7 @@ title: User Needs and Benchmarking
 
 #### 5. Mind Reader Double Cereal Dispenser
 
-![](<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/bece22b7-02f4-4086-82bc-bf7aa7d54626" />
+![](https://images.thdstatic.com/productImages/62b2c8a9-ec94-4e34-9954-3de3f8c93181/svn/white-mind-reader-dry-food-dispensers-cereald2-wht-64_600.jpg
 )
 
 
