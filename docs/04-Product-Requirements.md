@@ -19,15 +19,21 @@ The intended outcome is a functional prototype that demonstrates the ability to 
 
 ## Use Cases
 
-### User Story #1: Jenna
+### User Story #1: Working Pet Owner
 
-Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
+Jordan is a 29-year-old engineer who works full-time and is usually away from home for most of the day. His dog is normally fed twice a day, once in the morning and again in the evening. However, meetings, traffic, and changes in his work schedule sometimes prevent him from getting home at the dog's normal feeding time.
 
-Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
+Before leaving for work, Jordan fills the automatic pet food dispenser and programs the desired feeding schedule and portion size. At the scheduled time, the dispenser automatically releases the predetermined portion of food without requiring Jordan to be home or interact with the device. When Jordan returns, he can check the remaining food supply and refill the dispenser when necessary.
 
-### User Story #2
+The automatic dispenser allows Jordan to maintain a consistent feeding routine for his dog even when his own schedule changes. It also reduces the need to rely on another person to feed the dog when he is unexpectedly away from home.
 
-...
+### User Story #2: Pet Owner Away for the Day
+
+Maya is a college student who occasionally spends an entire day away from her apartment because of classes, work, and other activities. Her schedule varies throughout the week, but she wants her dog to continue receiving food at consistent times and in consistent portions regardless of when she returns home.
+
+Before leaving for the day, Maya checks that the dispenser contains enough food and adjusts the programmed feeding times if necessary. The dispenser stores the food securely so her dog cannot access additional food between meals. At each scheduled feeding time, it automatically dispenses the selected portion. If Maya's schedule changes on another day, she can modify the feeding schedule to match her dog's routine.
+
+This allows Maya to spend longer periods away from home while maintaining her dog's normal feeding schedule. The adjustable schedule and automatic portioning also reduce the possibility of missed, delayed, or inconsistent feedings.
 
 ## Aspects
 
