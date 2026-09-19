@@ -37,16 +37,49 @@ This allows Maya to spend longer periods away from home while maintaining her do
 
 ## Aspects
 
-The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
+The automatic pet food dispenser will be designed based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
-1. **Producer Design**
-   * 1.1 The product shall be visually easy to distinguish from existing AirPods as well as main competitors Sony WF-1000XM3, Jabra Elite, Amazon Echo Buds, Samsung Galaxy Buds, and Bose SoundSport Free, and Urbanista Stockholm. (P10)
-   * 1.1 The product shall be easy to recognize as an Apple product without needing a logo on its exterior. (P10)
-   * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
-  
-1. **Functionality**
-      * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
-      * 2.2 The product shall offer a dual microphone in each earbud. (P10)
+### 1. Hardware / Product Design
+
+- **1.1** The product shall have a container that can store enough pet food for multiple feedings. (P9)
+- **1.2** The product shall dispense food without regularly getting jammed. (P10)
+- **1.3** The product shall be stable enough that a pet cannot easily knock it over. (P8)
+- **1.4** The food container shall be easy for the owner to refill. (P8)
+
+### 2. Software / Functionality
+
+- **2.1** The product shall allow the user to set specific feeding times. (P10)
+- **2.2** The product shall automatically dispense food at the scheduled time. (P10)
+- **2.3** The product shall dispense a consistent amount of food for each feeding. (P9)
+- **2.4** The product shall have a manual button that allows the user to dispense food when needed. (P7)
+
+### 3. Interactivity & User Experience
+
+- **3.1** The product shall be simple for the user to set up and operate. (P9)
+- **3.2** The user shall be able to easily change the feeding schedule. (P9)
+- **3.3** The product shall be easy to refill and clean. (P8)
+- **3.4** The product shall clearly show the user when it is operating or dispensing food. (P6)
+
+### 4. Customization
+
+- **4.1** The user shall be able to choose different feeding times. (P10)
+- **4.2** The user shall be able to select different portion sizes. (P8)
+- **4.3** The product shall allow more than one feeding to be scheduled per day. (P9)
+- **4.4** The product shall work with common types and sizes of dry pet food. (P7)
+
+### 5. Manufacturing
+
+- **5.1** The product shall use parts that are available within the team's project budget. (P9)
+- **5.2** The product shall be designed using materials and manufacturing methods available to the team. (P8)
+- **5.3** The product shall be simple enough for the team to assemble and troubleshoot. (P8)
+- **5.4** Major components shall be replaceable if they become damaged. (P6)
+
+### 6. Safety
+
+- **6.1** The product shall keep electrical components covered and away from the pet. (P10)
+- **6.2** The pet shall not be able to easily reach the moving parts of the dispensing mechanism. (P10)
+- **6.3** The product shall not have exposed sharp edges that could harm the pet or owner. (P10)
+- **6.4** The product shall operate within the safe voltage and current limits of its electrical components. (P10)
 
 ## Requirement Criteria Specifications
 
