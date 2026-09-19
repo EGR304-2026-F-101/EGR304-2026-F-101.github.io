@@ -87,6 +87,8 @@ The automatic pet food dispenser will be designed based on the following require
 * 1.1.2 - Provide over-amperage project to not exceed 1.5 amps.
 
 ## Open Questions
-
-* Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?
-* Can we improve on failing or self-igniting batteries?
+- What dispensing method will work best without the food getting stuck?
+- How much food should the dispenser be able to hold?
+- What portion sizes should the user be able to choose from?
+- Should the dispenser save the feeding schedule if it loses power?
+- What is the best way to make the dispenser easy to refill and clean?
