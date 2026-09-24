@@ -52,7 +52,7 @@ The following features were generated from the user needs identified during our 
 | the dispenser provides a simple and reliable method for setting dispensing times | preset schedule buttons | common feeding schedules can be selected quickly |
 | the dispenser allows users to recover from errors without losing saved settings | nonvolatile memory | programmed settings remain stored when power is interrupted |
 | the dispenser allows users to recover from errors without losing saved settings | automatic settings backup | the current feeding schedule is automatically saved |
-| the dispenser can be configured without extensive effort | setup wizard | the device provides step-by-step configuration instructions |
+| the dispenser can be configured without extensive effort | setup wizard | the device provides step by step configuration instructions |
 | the dispenser can be configured without extensive effort | preset feeding schedules | common feeding schedules can be selected without entering every setting |
 | the dispenser can be adjusted without specialized technical knowledge | visual instructions | diagrams explain setup and adjustment procedures |
 | the dispenser's controls clearly communicate how it should be operated | status display | the display communicates the current operating mode |
@@ -66,8 +66,8 @@ The following features were generated from the user needs identified during our 
 
 | requirement / need | feature | detail |
 | ----------------------------------- | :-----: | ----------------------------------- |
-| the dispenser holds an adequate amount of food | large-capacity hopper | the storage container holds enough food for multiple feeding cycles |
-| the dispenser stores enough contents for an extended period of use | high-capacity storage container | the dispenser can store several days of food |
+| the dispenser holds an adequate amount of food | large capacity hopper | the storage container holds enough food for multiple feeding cycles |
+| the dispenser stores enough contents for an extended period of use | high capacity storage container | the dispenser can store several days of food |
 | the dispenser minimizes how frequently the user needs to refill it | large hopper | increased storage capacity reduces the frequency of refilling |
 | the dispenser provides adequate storage without being unnecessarily large | vertical storage design | the hopper increases capacity without greatly increasing the footprint |
 | the dispenser accommodates multiple types of solid food | adjustable dispensing gate | the opening can be adjusted for different types of food |
@@ -93,8 +93,8 @@ The following features were generated from the user needs identified during our 
 | ----------------------------------- | :-----: | ----------------------------------- |
 | the dispenser is well constructed and sturdy | reinforced outer housing | structural supports strengthen the main enclosure |
 | the dispenser remains durable after extended use | impact resistant housing | the enclosure resists damage from normal impacts |
-| the dispenser maintains reliable performance during frequent long-term use | self-test function | the device checks important components for proper operation |
-| the dispenser continues functioning after many individual uses | high-cycle motor | the motor is designed for repeated dispensing cycles |
+| the dispenser maintains reliable performance during frequent long term use | self-test function | the device checks important components for proper operation |
+| the dispenser continues functioning after many individual uses | high cycle motor | the motor is designed for repeated dispensing cycles |
 | the dispenser's moving components withstand repeated use | reinforced gears | stronger gears reduce mechanical wear |
 | the dispenser withstands normal handling without cracking or breaking | reinforced corners | strengthened corners reduce damage from impacts |
 | the dispenser maintains its structural integrity through repeated use | reinforced frame | an internal frame supports the major components |
@@ -108,7 +108,7 @@ The following features were generated from the user needs identified during our 
 | the dispenser is easy to troubleshoot when a malfunction occurs | error indicator | an indicator identifies when the dispenser detects a problem |
 | the dispenser operates without requiring a continuous external connection | rechargeable battery | the dispenser can operate without remaining connected to an outlet |
 | the dispenser functions properly while the user is away | automatic feeding schedule | scheduled feeding continues without the owner being present |
-| the dispenser remains operational for an adequate amount of time without external power | high-capacity battery | the battery provides extended operation without external power |
+| the dispenser remains operational for an adequate amount of time without external power | high capacity battery | the battery provides extended operation without external power |
 | the dispenser retains programmed settings during normal interruptions in power | nonvolatile memory | programmed feeding schedules remain stored during power interruptions |
 | the dispenser provides dependable feeding even when the owner cannot supervise the pet | backup battery | the dispenser can continue feeding during a power outage |
 
@@ -117,23 +117,23 @@ The following features were generated from the user needs identified during our 
 | requirement / need | feature | detail |
 | ----------------------------------- | :-----: | ----------------------------------- |
 | the dispenser is easy for pets to understand and interact with | accessible feeding bowl | the bowl is positioned so the pet can easily reach the food |
-| the dispenser provides an experience that pets are comfortable using | pet-sized bowl | the bowl provides an appropriate feeding area for the pet |
+| the dispenser provides an experience that pets are comfortable using | pet sized bowl | the bowl provides an appropriate feeding area for the pet |
 | the dispenser remains stable during normal operation | wide base | a wide base reduces the likelihood of tipping |
 | the dispenser remains stable when a pet interacts with it | non-slip feet | the feet reduce movement when the pet interacts with the dispenser |
-| the dispenser operates without creating excessive noise | quiet motor | a low-noise motor reduces sound during dispensing |
+| the dispenser operates without creating excessive noise | quiet motor | a low noise motor reduces sound during dispensing |
 | the dispenser fits comfortably within the user's available space | compact footprint | the dispenser occupies a limited amount of floor space |
 | the dispenser supports different user environments and use cases | wall-mounting option | the dispenser can be mounted to a wall when floor space is limited |
 | the dispenser has an appealing appearance | modern enclosure | the housing provides a clean appearance suitable for a home |
 | the dispenser provides good value for its cost | replaceable components | individual worn components can be replaced instead of replacing the entire dispenser |
 | the dispenser provides useful additional features that improve the user experience | feeding history display | the device shows information about previous feeding cycles |
 | the dispenser remains stable when a pet interacts with it | weighted base | additional weight helps prevent the dispenser from being moved |
-| the dispenser provides an experience that pets are comfortable using | non-slip feeding bowl | the bowl resists sliding while the pet eats |
+| the dispenser provides an experience that pets are comfortable using | nonslip feeding bowl | the bowl resists sliding while the pet eats |
 | the dispenser operates without creating excessive noise | vibration dampeners | vibration-reducing mounts decrease mechanical noise |
 | the dispenser fits comfortably within the user's available space | vertical design | the dispenser uses vertical space to reduce its floor footprint |
 | the dispenser supports different user environments and use cases | adjustable bowl height | the feeding height can be changed for different pets |
-| the dispenser provides useful additional features that improve the user experience | low-food notification | the device alerts the owner when the food supply is low |
+| the dispenser provides useful additional features that improve the user experience | low food notification | the device alerts the owner when the food supply is low |
 | the dispenser has an appealing appearance | concealed wiring | electrical wiring is enclosed within the product housing |
-| the dispenser provides good value for its cost | durable construction | longer-lasting components reduce the need for frequent replacement |
+| the dispenser provides good value for its cost | durable construction | longer lasting components reduce the need for frequent replacement |
 | the dispenser remains stable during normal operation | low center of gravity | heavy components are positioned lower to improve stability |
 | the dispenser supports different user environments and use cases | portable design | the dispenser can be moved between different locations when necessary |
 
@@ -148,8 +148,8 @@ After completing the initial brainstorm, the 100 features were sorted into five 
 | **1. Dispensing & Portion Control** | Delivering the correct amount of food reliably | Programmable timer, manual dispense button, automatic dispensing motor, cycle confirmation sensor, anti-jam mechanism, reverse motor, food agitator, jam detection sensor, adjustable food opening, interchangeable dispensing wheel, portion control settings, calibrated dispensing chamber, adjustable portion wheel, portion limiter, controlled dispensing gate, dispensing chute, centered dispensing outlet, portion memory |
 | **2. Scheduling & User Controls** | Making the dispenser easy to program and operate | LCD control panel, labeled buttons, touchscreen interface, quick start setup, digital settings interface, setting confirmation, digital clock, schedule menu, preset schedules, nonvolatile memory, automatic settings backup, setup wizard, visual instructions, status display, indicator lights, input confirmation, editable feeding schedule, dispensing indicator LED, error code display |
 | **3. Storage, Food Protection & Capacity** | Storing and protecting food between feedings | Large capacity hopper, high capacity storage container, vertical storage, adjustable dispensing gate, adjustable food opening, low food sensor, reinforced hopper mount, transparent hopper, food level markings, locking hopper lid, locking dispensing mechanism, sealed hopper, airtight lid, closed dispensing gate, pet resistant lid, protected food outlet, wide fill opening, divided storage compartment, integrated food hopper |
-| **4. Reliability, Maintenance & Power** | Keeping the product operational with minimal maintenance | Reinforced housing, impact resistant housing, self-test function, high-cycle motor, reinforced gears, reinforced corners, reinforced frame, startup diagnostic, removable food hopper, tool free components, smooth interior surfaces, quick release hopper, keyed components, printed setup guide, error indicator, rechargeable battery, automatic feeding schedule, high-capacity battery, nonvolatile memory, backup battery |
-| **5. Pet Interaction, Stability & Physical Design** | Making the product stable, accessible, quiet, and practical | Accessible feeding bowl, pet sized bowl, wide base, nonslip feet, quiet motor, compact footprint, wall mounting option, modern enclosure, replaceable components, feeding history display, weighted base, non-slip feeding bowl, vibration dampeners, vertical design, adjustable bowl height, low food notification, concealed wiring, durable construction, low center of gravity, portable design |
+| **4. Reliability, Maintenance & Power** | Keeping the product operational with minimal maintenance | Reinforced housing, impact resistant housing, self-test function, high cycle motor, reinforced gears, reinforced corners, reinforced frame, startup diagnostic, removable food hopper, tool free components, smooth interior surfaces, quick release hopper, keyed components, printed setup guide, error indicator, rechargeable battery, automatic feeding schedule, high capacity battery, nonvolatile memory, backup battery |
+| **5. Pet Interaction, Stability & Physical Design** | Making the product stable, accessible, quiet, and practical | Accessible feeding bowl, pet sized bowl, wide base, nonslip feet, quiet motor, compact footprint, wall mounting option, modern enclosure, replaceable components, feeding history display, weighted base, nonslip feeding bowl, vibration dampeners, vertical design, adjustable bowl height, low food notification, concealed wiring, durable construction, low center of gravity, portable design |
 
 ### 3.2 Ranking the Top Ideas
 
@@ -191,7 +191,7 @@ The ranking process revealed opportunities to combine several of the original fe
 |---|---|---|
 | Anti-jam mechanism + jam detection sensor + reverse motor | **Automatic Jam Recovery System** | Detects a blockage, reverses the dispensing mechanism, and attempts to resume dispensing automatically. |
 | Low food sensor + status display + low food notification | **Low Food Alert System** | Detects when the hopper is low and communicates the condition to the user. |
-| Backup battery + nonvolatile memory + automatic feeding schedule | **Power-Loss Recovery System** | Maintains the programmed schedule and allows feeding to continue during a power interruption. |
+| Backup battery + nonvolatile memory + automatic feeding schedule | **Power Loss Recovery System** | Maintains the programmed schedule and allows feeding to continue during a power interruption. |
 | Large capacity hopper + transparent hopper + food level markings | **Visible High Capacity Hopper** | Provides extended storage while allowing the owner to see how much food remains. |
 | Removable food hopper + quick release hopper + smooth interior surfaces | **Easy Clean Hopper System** | Allows the hopper to be removed quickly and cleaned with minimal effort. |
 | Portion control settings + calibrated dispensing chamber + portion memory | **Precision Portion System** | Stores a selected portion and uses a calibrated mechanism to dispense a consistent amount. |
@@ -244,13 +244,13 @@ The Reliable Away from Home Feeder emphasizes dependable operation when the owne
 - Automatic dispensing motor
 - Anti-jam mechanism
 - Food agitator
-- High-cycle motor
+- High cycle motor
 - Reinforced gears
 - Reinforced housing
 - Self-test function
 - Backup battery
-- High-capacity battery
-- Power-Loss Recovery System
+- High capacity battery
+- Power Loss Recovery System
 - Large capacity hopper
 - Airtight lid
 - Locking hopper lid
@@ -273,17 +273,17 @@ The Pet Friendly Modular Feeder emphasizes the physical experience of the pet an
 
 - Wide base
 - Anti-Tip Base System
-- Non-slip feeding bowl
+- Nonslip feeding bowl
 - Adjustable bowl height
-- Pet-sized bowl
+- Pet sized bowl
 - Quiet motor
 - Vibration dampeners
 - Compact footprint
 - Vertical design
 - Portable design
 - Removable food hopper
-- Easy-Clean Hopper System
-- Tool-free components
+- Easy Clean Hopper System
+- Tool free components
 - Replaceable components
 - Interchangeable dispensing wheel
 - Adjustable food opening
@@ -304,7 +304,7 @@ Examples include:
 - Touchscreen interface
 - Concealed wiring
 - Modern enclosure
-- Food-level markings
+- Food level markings
 - Centered dispensing outlet
 - Controlled dispensing gate
 - Printed setup guide
