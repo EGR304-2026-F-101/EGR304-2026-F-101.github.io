@@ -6,7 +6,7 @@ title: Design Ideation
 
 The goal of this ideation process was to generate a wide variety of possible features for our automatic dog food dispenser. Our team used the user needs identified during the Voice of the Customer benchmarking process as the foundation for the brainstorm. The benchmarking process produced 100 organized user needs covering dispensing performance, scheduling and controls, reliability, food storage, ease of use, maintenance, food protection, power, pet interaction, and physical design. These needs were prioritized as High, Medium, or Low based on repeated customer feedback, importance to the primary function of the dispenser, and team judgment.
 
-For the ideation process, we focused primarily on the High-priority needs while also including Medium- and Low-priority needs when they provided opportunities to improve the overall user experience. The purpose of the brainstorm was to generate individual features that could later be combined into different complete product concepts.
+For the ideation process, we focused primarily on the High priority needs while also including Medium and Low priority needs when they provided opportunities to improve the overall user experience. The purpose of the brainstorm was to generate individual features that could later be combined into different complete product concepts.
 
 ## Generating Ideas
 
@@ -44,7 +44,7 @@ The following features were generated from the user needs identified during our 
 | the dispenser is easy to program | LCD control panel | the display provides menus for entering feeding times and portions |
 | the dispenser is easy to program | labeled control buttons | clearly labeled buttons allow the user to program the dispenser |
 | the dispenser is easy to program | touchscreen interface | a touchscreen provides an interactive programming interface |
-| the dispenser is easy to program | quick-start setup | the dispenser guides the user through initial programming |
+| the dispenser is easy to program | quick start setup | the dispenser guides the user through initial programming |
 | the dispenser accurately responds to changes in user settings | digital settings interface | the user can enter precise feeding times and portion sizes |
 | the dispenser accurately responds to changes in user settings | setting confirmation | the dispenser confirms that a new setting has been saved |
 | the dispenser provides a simple and reliable method for setting dispensing times | digital clock display | the display shows the current time and programmed feeding times |
@@ -72,18 +72,18 @@ The following features were generated from the user needs identified during our 
 | the dispenser provides adequate storage without being unnecessarily large | vertical storage design | the hopper increases capacity without greatly increasing the footprint |
 | the dispenser accommodates multiple types of solid food | adjustable dispensing gate | the opening can be adjusted for different types of food |
 | the dispenser accommodates a useful range of food sizes and shapes | adjustable food opening | the opening can accommodate different kibble dimensions |
-| the dispenser provides enough food capacity between planned refills | low-food sensor | the device detects when the stored food level becomes low |
+| the dispenser provides enough food capacity between planned refills | low food sensor | the device detects when the stored food level becomes low |
 | the dispenser securely supports a full supply of stored food | reinforced hopper mount | the storage container remains securely attached when full |
 | the dispenser makes it easy for the user to determine how much food remains | transparent hopper | the remaining food can be viewed through the storage container |
-| the dispenser makes it easy for the user to determine how much food remains | food-level markings | markings indicate the approximate amount of food remaining |
+| the dispenser makes it easy for the user to determine how much food remains | food level markings | markings indicate the approximate amount of food remaining |
 | the dispenser securely contains its contents during normal use | locking hopper lid | the lid prevents food from escaping the storage compartment |
 | the dispenser keeps its contents securely contained until they are needed | locking dispensing mechanism | the food outlet remains closed until an authorized feeding cycle |
 | the dispenser protects stored food from environmental exposure | sealed hopper | the storage area is enclosed to reduce environmental exposure |
 | the dispenser preserves the usable condition and freshness of stored food over time | airtight lid | the lid reduces exposure to air and moisture |
 | the dispenser contains food between dispensing operations without unintended leakage | closed dispensing gate | the gate remains closed between scheduled feedings |
-| the dispenser prevents pets from gaining unauthorized access to stored food | pet-resistant lid | the storage compartment is designed to resist pet access |
+| the dispenser prevents pets from gaining unauthorized access to stored food | pet resistant lid | the storage compartment is designed to resist pet access |
 | the dispenser prevents pets from gaining unauthorized access to stored food | protected food outlet | the dispensing mechanism is enclosed within the housing |
-| the dispenser minimizes the possibility of food spilling during refilling | wide-fill opening | the large opening makes it easier to pour food into the hopper |
+| the dispenser minimizes the possibility of food spilling during refilling | wide fill opening | the large opening makes it easier to pour food into the hopper |
 | the dispenser keeps stored contents separated and organized | divided storage compartment | separate sections can keep different food contents organized |
 | the dispenser reduces the need for additional food storage containers | integrated food hopper | the dispenser provides its own storage area for the food supply |
 
@@ -92,7 +92,7 @@ The following features were generated from the user needs identified during our 
 | requirement / need | feature | detail |
 | ----------------------------------- | :-----: | ----------------------------------- |
 | the dispenser is well constructed and sturdy | reinforced outer housing | structural supports strengthen the main enclosure |
-| the dispenser remains durable after extended use | impact-resistant housing | the enclosure resists damage from normal impacts |
+| the dispenser remains durable after extended use | impact resistant housing | the enclosure resists damage from normal impacts |
 | the dispenser maintains reliable performance during frequent long-term use | self-test function | the device checks important components for proper operation |
 | the dispenser continues functioning after many individual uses | high-cycle motor | the motor is designed for repeated dispensing cycles |
 | the dispenser's moving components withstand repeated use | reinforced gears | stronger gears reduce mechanical wear |
@@ -100,9 +100,9 @@ The following features were generated from the user needs identified during our 
 | the dispenser maintains its structural integrity through repeated use | reinforced frame | an internal frame supports the major components |
 | the dispenser works correctly when first installed or set up | startup diagnostic | the dispenser checks major components when powered on |
 | the dispenser is easy to clean | removable food hopper | the hopper can be removed for cleaning |
-| the dispenser requires minimal effort for routine maintenance | tool-free components | routine maintenance can be performed without specialized tools |
+| the dispenser requires minimal effort for routine maintenance | tool free components | routine maintenance can be performed without specialized tools |
 | the dispenser prevents food from accumulating in areas that are difficult to clean | smooth interior surfaces | smooth surfaces reduce locations where food can collect |
-| the dispenser can be disassembled for cleaning without excessive effort | quick-release hopper | the hopper can be detached using a simple release mechanism |
+| the dispenser can be disassembled for cleaning without excessive effort | quick release hopper | the hopper can be detached using a simple release mechanism |
 | the dispenser can be reassembled correctly after cleaning or maintenance | keyed components | components fit together in the correct orientation |
 | the dispenser provides clear instructions for its operation | printed setup guide | the guide explains how to operate and maintain the dispenser |
 | the dispenser is easy to troubleshoot when a malfunction occurs | error indicator | an indicator identifies when the dispenser detects a problem |
@@ -146,10 +146,10 @@ After completing the initial brainstorm, the 100 features were sorted into five 
 | Group | Primary Focus | Features Included |
 |---|---|---|
 | **1. Dispensing & Portion Control** | Delivering the correct amount of food reliably | Programmable timer, manual dispense button, automatic dispensing motor, cycle confirmation sensor, anti-jam mechanism, reverse motor, food agitator, jam detection sensor, adjustable food opening, interchangeable dispensing wheel, portion control settings, calibrated dispensing chamber, adjustable portion wheel, portion limiter, controlled dispensing gate, dispensing chute, centered dispensing outlet, portion memory |
-| **2. Scheduling & User Controls** | Making the dispenser easy to program and operate | LCD control panel, labeled buttons, touchscreen interface, quick-start setup, digital settings interface, setting confirmation, digital clock, schedule menu, preset schedules, nonvolatile memory, automatic settings backup, setup wizard, visual instructions, status display, indicator lights, input confirmation, editable feeding schedule, dispensing indicator LED, error code display |
-| **3. Storage, Food Protection & Capacity** | Storing and protecting food between feedings | Large-capacity hopper, high-capacity storage container, vertical storage, adjustable dispensing gate, adjustable food opening, low-food sensor, reinforced hopper mount, transparent hopper, food-level markings, locking hopper lid, locking dispensing mechanism, sealed hopper, airtight lid, closed dispensing gate, pet-resistant lid, protected food outlet, wide-fill opening, divided storage compartment, integrated food hopper |
-| **4. Reliability, Maintenance & Power** | Keeping the product operational with minimal maintenance | Reinforced housing, impact-resistant housing, self-test function, high-cycle motor, reinforced gears, reinforced corners, reinforced frame, startup diagnostic, removable food hopper, tool-free components, smooth interior surfaces, quick-release hopper, keyed components, printed setup guide, error indicator, rechargeable battery, automatic feeding schedule, high-capacity battery, nonvolatile memory, backup battery |
-| **5. Pet Interaction, Stability & Physical Design** | Making the product stable, accessible, quiet, and practical | Accessible feeding bowl, pet-sized bowl, wide base, non-slip feet, quiet motor, compact footprint, wall-mounting option, modern enclosure, replaceable components, feeding history display, weighted base, non-slip feeding bowl, vibration dampeners, vertical design, adjustable bowl height, low-food notification, concealed wiring, durable construction, low center of gravity, portable design |
+| **2. Scheduling & User Controls** | Making the dispenser easy to program and operate | LCD control panel, labeled buttons, touchscreen interface, quick start setup, digital settings interface, setting confirmation, digital clock, schedule menu, preset schedules, nonvolatile memory, automatic settings backup, setup wizard, visual instructions, status display, indicator lights, input confirmation, editable feeding schedule, dispensing indicator LED, error code display |
+| **3. Storage, Food Protection & Capacity** | Storing and protecting food between feedings | Large capacity hopper, high capacity storage container, vertical storage, adjustable dispensing gate, adjustable food opening, low food sensor, reinforced hopper mount, transparent hopper, food level markings, locking hopper lid, locking dispensing mechanism, sealed hopper, airtight lid, closed dispensing gate, pet resistant lid, protected food outlet, wide fill opening, divided storage compartment, integrated food hopper |
+| **4. Reliability, Maintenance & Power** | Keeping the product operational with minimal maintenance | Reinforced housing, impact resistant housing, self-test function, high-cycle motor, reinforced gears, reinforced corners, reinforced frame, startup diagnostic, removable food hopper, tool free components, smooth interior surfaces, quick release hopper, keyed components, printed setup guide, error indicator, rechargeable battery, automatic feeding schedule, high-capacity battery, nonvolatile memory, backup battery |
+| **5. Pet Interaction, Stability & Physical Design** | Making the product stable, accessible, quiet, and practical | Accessible feeding bowl, pet sized bowl, wide base, nonslip feet, quiet motor, compact footprint, wall mounting option, modern enclosure, replaceable components, feeding history display, weighted base, non-slip feeding bowl, vibration dampeners, vertical design, adjustable bowl height, low food notification, concealed wiring, durable construction, low center of gravity, portable design |
 
 ### 3.2 Ranking the Top Ideas
 
@@ -167,17 +167,17 @@ After sorting the features, the team discussed which ideas would have the greate
 | | 3 | Editable feeding schedule | Allows users to change individual feeding times as needed. |
 | | 4 | Status display | Gives the user information about the current operating state. |
 | | 5 | Error code display | Helps the user identify and troubleshoot problems. |
-| **Storage, Food Protection & Capacity** | 1 | Large-capacity hopper | Reduces the frequency of refilling. |
+| **Storage, Food Protection & Capacity** | 1 | Large capacity hopper | Reduces the frequency of refilling. |
 | | 2 | Airtight lid | Helps protect stored food from air and moisture. |
 | | 3 | Locking hopper lid | Helps prevent the pet from accessing the stored food. |
-| | 4 | Low-food sensor | Alerts the user when the food supply is becoming low. |
+| | 4 | Low food sensor | Alerts the user when the food supply is becoming low. |
 | | 5 | Transparent hopper | Allows the user to visually check the remaining food. |
 | **Reliability, Maintenance & Power** | 1 | Backup battery | Allows feeding to continue during loss of external power. |
-| | 2 | High-cycle motor | Supports repeated operation over an extended period. |
+| | 2 | High cycle motor | Supports repeated operation over an extended period. |
 | | 3 | Removable food hopper | Makes cleaning and maintenance easier. |
 | | 4 | Self-test function | Allows the dispenser to check its operating condition. |
 | | 5 | Reinforced housing | Helps the product withstand normal use and pet interaction. |
-| **Pet Interaction, Stability & Physical Design** | 1 | Non-slip feet | Helps prevent the dispenser from moving while the pet interacts with it. |
+| **Pet Interaction, Stability & Physical Design** | 1 | Nonslip feet | Helps prevent the dispenser from moving while the pet interacts with it. |
 | | 2 | Wide base | Improves stability. |
 | | 3 | Quiet motor | Reduces noise during feeding. |
 | | 4 | Low center of gravity | Helps resist tipping. |
@@ -190,15 +190,15 @@ The ranking process revealed opportunities to combine several of the original fe
 | Original Ideas Combined | New Feature | Detail |
 |---|---|---|
 | Anti-jam mechanism + jam detection sensor + reverse motor | **Automatic Jam Recovery System** | Detects a blockage, reverses the dispensing mechanism, and attempts to resume dispensing automatically. |
-| Low-food sensor + status display + low-food notification | **Low-Food Alert System** | Detects when the hopper is low and communicates the condition to the user. |
+| Low food sensor + status display + low food notification | **Low Food Alert System** | Detects when the hopper is low and communicates the condition to the user. |
 | Backup battery + nonvolatile memory + automatic feeding schedule | **Power-Loss Recovery System** | Maintains the programmed schedule and allows feeding to continue during a power interruption. |
-| Large-capacity hopper + transparent hopper + food-level markings | **Visible High-Capacity Hopper** | Provides extended storage while allowing the owner to see how much food remains. |
-| Removable food hopper + quick-release hopper + smooth interior surfaces | **Easy-Clean Hopper System** | Allows the hopper to be removed quickly and cleaned with minimal effort. |
+| Large capacity hopper + transparent hopper + food level markings | **Visible High Capacity Hopper** | Provides extended storage while allowing the owner to see how much food remains. |
+| Removable food hopper + quick release hopper + smooth interior surfaces | **Easy Clean Hopper System** | Allows the hopper to be removed quickly and cleaned with minimal effort. |
 | Portion control settings + calibrated dispensing chamber + portion memory | **Precision Portion System** | Stores a selected portion and uses a calibrated mechanism to dispense a consistent amount. |
 | Quiet motor + vibration dampeners + reinforced housing | **Quiet Operation Housing** | Reduces mechanical noise and vibration during dispensing. |
 | Non-slip feet + weighted base + low center of gravity | **Anti-Tip Base System** | Combines multiple stability features to reduce movement and tipping during pet interaction. |
 | Setup wizard + labeled buttons + setting confirmation | **Guided Programming System** | Walks the user through setup and confirms that feeding settings were saved. |
-| Protected food outlet + locking dispensing mechanism + pet-resistant lid | **Pet-Resistant Food Protection System** | Prevents unauthorized access to stored food and the dispensing mechanism. |
+| Protected food outlet + locking dispensing mechanism + pet resistant lid | **Pet Resistant Food Protection System** | Prevents unauthorized access to stored food and the dispensing mechanism. |
 
 ### 3.4 Three Distinct Product Concepts
 
@@ -222,11 +222,11 @@ The Smart Precision Feeder emphasizes accurate portioning and advanced programmi
 - Error code display
 - Jam detection sensor
 - Automatic Jam Recovery System
-- Low-Food Alert System
+- Low Food Alert System
 - Nonvolatile memory
 - Feeding history display
 - Transparent hopper
-- Large-capacity hopper
+- Large capacity hopper
 
 **Design Goal:**  
 Provide precise, programmable feeding while giving the owner clear information about the dispenser's current status.
@@ -237,7 +237,7 @@ Provide precise, programmable feeding while giving the owner clear information a
 
 **Primary Focus:** Reliability and independent operation.
 
-The Reliable Away-From-Home Feeder emphasizes dependable operation when the owner is not available. The design combines mechanical reliability, food storage, and backup power.
+The Reliable Away from Home Feeder emphasizes dependable operation when the owner is not available. The design combines mechanical reliability, food storage, and backup power.
 
 **Selected Features:**
 
@@ -251,10 +251,10 @@ The Reliable Away-From-Home Feeder emphasizes dependable operation when the owne
 - Backup battery
 - High-capacity battery
 - Power-Loss Recovery System
-- Large-capacity hopper
+- Large capacity hopper
 - Airtight lid
 - Locking hopper lid
-- Low-food sensor
+- Low food sensor
 - Error indicator
 - Automatic feeding schedule
 
@@ -267,7 +267,7 @@ Keep the pet's feeding schedule operating reliably for extended periods with min
 
 **Primary Focus:** Pet interaction, stability, cleaning, and adaptable physical design.
 
-The Pet-Friendly Modular Feeder emphasizes the physical experience of the pet and the owner's ability to maintain and adapt the product.
+The Pet Friendly Modular Feeder emphasizes the physical experience of the pet and the owner's ability to maintain and adapt the product.
 
 **Selected Features:**
 
@@ -293,7 +293,7 @@ Create a stable, quiet, easy-to-clean feeder that can be adapted to different pe
 
 ### 3.5 Features Retained for Future Ideation
 
-Features that were not selected for one of the three primary concepts were **not discarded**. They remain available as a separate pool of ideas that can be revisited during concept development.
+Features that were not selected for one of the three primary concepts were not discarded. They remain available as a separate pool of ideas that can be revisited during concept development.
 
 Examples include:
 
@@ -322,15 +322,15 @@ Add your different product concepts stuff here
 
 ### Brainstorming Process
 
-The team began the ideation process by reviewing the user needs and product requirements identified during the previous benchmarking assignment. The brainstorming session focused on generating a large number of possible product features for an automatic pet food dispenser without immediately judging or eliminating ideas. The goal was to explore a wide range of possible solutions that could address the needs of both the pet and the owner. The team members participated in the brainstorming and discussed possible features based on the requirements identified during the benchmarking process. Ideas were collected and organized into the team's working document so that the features could be reviewed and modified after the initial brainstorming session. The team used the project Markdown/GitHub document to record the ideas and organize the results. This allowed the brainstormed features to be preserved and easily reorganized during the later stages of the ideation process.
+The team began the ideation process by reviewing the user needs and product requirements identified during the previous benchmarking assignment. The brainstorming session focused on generating a large number of possible product features for an automatic pet food dispenser without immediately judging or eliminating ideas. The goal was to explore a wide range of possible solutions that could address the needs of both the pet and the owner. The team members participated in the brainstorming and discussed possible features based on the requirements identified during the benchmarking process. Ideas were collected and organized into the team's working document so that the features could be reviewed and modified after the initial brainstorming session. The team used the project GitHub document to record the ideas and organize the results. This allowed the brainstormed features to be preserved and easily reorganized during the later stages of the ideation process.
 
 The primary source used to generate the requirements was the Voice of the Customer Benchmarking assignment. That assignment examined five benchmark products: a timed medicine dispenser, an automatic paper towel dispenser, an automatic pet food dispenser, a gumball dispenser, and a double cereal dispenser. The user needs identified from these products provided the foundation for the brainstorming session. The requirements were organized around areas such as dispensing performance, scheduling and controls, reliability, food storage and capacity, ease of use, cleaning and maintenance, food protection, power, pet interaction, and physical design. The team also used the benchmark products and their identified features as inspiration for generating additional ideas. Instead of limiting the brainstorm to features already found in the benchmark products, the team combined and modified existing ideas to create possible improvements for the pet food dispenser. This resulted in 100 potential product features across five major categories.
 
 ### Grouping and Ranking Features
 
-After the initial brainstorm was completed, the features were sorted into five thematic groups: Dispensing & Portion Control; Scheduling & User Controls; Storage, Food Protection & Capacity; Reliability, Maintenance & Power; and Pet Interaction, Stability & Physical Design. The features were grouped according to the primary function they served, or the user need they addressed. This made it easier to identify patterns within the brainstorm and compare features that solved similar problems. The team then reviewed the features within each group and identified the ideas that were most important to the overall product. Ranking was based primarily on how directly each feature supported the main purpose of the automatic pet food dispenser, how much it addressed an important user need, and how much it could improve reliability, usability, safety, or the pet's experience. For example, features such as anti-jam mechanisms, portion control, programmable scheduling, backup power, large-capacity storage, and stable physical construction were identified as important because they directly affect the dispenser's ability to provide food reliably.
+After the initial brainstorm was completed, the features were sorted into five thematic groups: 1. Dispensing & Portion Control, 2. Scheduling & User Controls, 3. Storage, Food Protection & Capacity, 4. Reliability, Maintenance & Power, and 5. Pet Interaction, Stability & Physical Design. The features were grouped according to the primary function they served or the user need they addressed. This made it easier to identify patterns within the brainstorm and compare features that solved similar problems. The team then reviewed the features within each group and identified the ideas that were most important to the overall product. Ranking was based primarily on how directly each feature supported the main purpose of the automatic pet food dispenser, how much it addressed an important user need, and how much it could improve reliability, usability, safety, or the pet's experience. For example, features such as anti-jam mechanisms, portion control, programmable scheduling, backup power, large-capacity storage, and stable physical construction were identified as important because they directly affect the dispenser's ability to provide food reliably.
 
-The ranking process also provided an opportunity to combine existing ideas into new features. For example, the anti-jam mechanism, jam detection sensor, and reverse motor were combined into an Automatic Jam Recovery System. Similarly, the backup battery, nonvolatile memory, and automatic feeding schedule were combined into a Power-Loss Recovery System. These combinations allowed the team to develop new ideas from the strongest features identified during the discussion. The highest-ranked and newly generated features were recombined into three different product concepts: the Smart Precision Feeder, the Reliable Away-From-Home Feeder, and the Pet-Friendly Modular Feeder. Features that were not selected for one of the three concepts were retained separately rather than discarded so they could be reconsidered during future concept development.
+The ranking process also provided an opportunity to combine existing ideas into new features. The anti-jam mechanism, jam detection sensor, and reverse motor were combined into an Automatic Jam Recovery System. Another example was the backup battery, nonvolatile memory, and automatic feeding schedule were combined into a Power-Loss Recovery System. These combinations allowed the team to develop new ideas from the strongest features identified during the discussion. The highest ranked and newly generated features were recombined into three different product concepts: the Smart Precision Feeder, the Reliable Away from Home Feeder, and the Pet Friendly Modular Feeder. Features that were not selected for one of the three concepts were retained separately rather than discarded so they could be reconsidered during future concept development.
 
 ## Step Six (video link)
 Embedded a YouTube video that covers the 
